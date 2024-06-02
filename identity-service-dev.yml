@@ -15,7 +15,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/crm_identity
     username: postgres
-    password: 123456
+    password: 12345
   data:
     redis:
       host: localhost
